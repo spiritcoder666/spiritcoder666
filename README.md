@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spiritcoder666 
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on projects regarding developing and operations
