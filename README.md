@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spiritcoder666 
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in Web devlopment
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on projects regarding developing and operations
 - 📫 How to reach me contact me through watsapp on +91 9166498268
 
