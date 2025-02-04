@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I'm Rohit, a Computer Science student at Chandigarh University with a Minor in AI from IIT Ropar.<br>👯 Passionate about problem-solving, I specialize in C++, Python, and machine learning.<br>🌱 I've built projects in AI, IoT, and web development.<br>💬 As a Metacrafters trainee and Walmart USA Virtual Experience participant, I enjoy tackling real-world challenges. <br>🤝 Always exploring new tech—let’s connect!<br> 
+🔭 Hi, I'm Rohit, a Computer Science student at Chandigarh University with a Minor in **AI from IIT Ropar**.<br>👯 Passionate about problem-solving, I specialize in C++, Python, and machine learning.<br>🌱 I've built projects in AI, IoT, and web development.<br>💬 As a Metacrafters trainee and Walmart USA Virtual Experience participant, I enjoy tackling real-world challenges. <br>🤝 Always exploring new tech—let’s connect!<br> 
 
 
 ## 🌐 Socials:
